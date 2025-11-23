@@ -1,0 +1,9 @@
+{
+	"name": "factoryprojectniraj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f700a96d-8e51-4bb5-97c2-0044c77fec2e",
+		"tenantId": "1722a731-fea4-4533-84d1-8ed87bad8b1b"
+	}
+}
